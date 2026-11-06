@@ -97,10 +97,6 @@ The repository contains a Streamlit application through `app_spam.py`.
 
 Users can interact with the deployed application and receive predictions through a simple web interface.
 
-### 🚀 Live Application
-
-https://message-intelligence-system-dzswv55xd2qhharu8augt8.streamlit.app/
-
 ---
 
 ## 🗂️ Repository Structure
@@ -213,7 +209,7 @@ This project helped demonstrate practical experience with:
 
 | Resource | Link |
 |---|---|
-| 🚀 Live Streamlit Demo | https://message-intelligence-system-dzswv55xd2qhharu8augt8.streamlit.app/ |
+| 🚀 Live Streamlit Demo | https://message-intelligence-system-dzswv55xd2qhharu8augt8.streamlit.app/?embed=true |
 
 ---
 
