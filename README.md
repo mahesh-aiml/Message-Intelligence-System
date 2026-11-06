@@ -5,7 +5,7 @@ An end-to-end **Machine Learning and NLP project** for analyzing and classifying
 ## 🚀 Live Demo
 
 👉 **Streamlit App:**  
-https://message-intelligence-system-dzswv55xd2qhharu8augt8.streamlit.app/
+https://message-intelligence-system-dzswv55xd2qhharu8augt8.streamlit.app/?embed=true
 
 ---
 
