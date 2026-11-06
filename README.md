@@ -7,11 +7,6 @@ An end-to-end **Machine Learning and NLP project** for analyzing and classifying
 👉 **Streamlit App:**  
 https://message-intelligence-system-dzswv55xd2qhharu8augt8.streamlit.app/
 
-## 📌 GitHub Repository
-
-👉 **Source Code:**  
-https://github.com/maheshloharr/Message-Intelligence-System
-
 ---
 
 ## 📖 Project Overview
@@ -218,7 +213,6 @@ This project helped demonstrate practical experience with:
 
 | Resource | Link |
 |---|---|
-| 💻 GitHub Repository | https://github.com/maheshloharr/Message-Intelligence-System |
 | 🚀 Live Streamlit Demo | https://message-intelligence-system-dzswv55xd2qhharu8augt8.streamlit.app/ |
 
 ---
